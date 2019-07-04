@@ -1,0 +1,18 @@
+* {
+    font-family: sans-serif;
+    background-color: lightseagreen;
+    color: white;
+    margin: auto
+}
+
+h1 {
+    width: 300px;
+    padding: auto;
+    text-align: center;
+}
+
+h2 {
+    width: 250px;
+    padding: auto;
+    text-align: center;
+}
